@@ -17,16 +17,16 @@
 
     <TextView
         android:id="@+id/textLogo"
-        android:layout_marginTop="20dp"
-        android:textAlignment="center"
-        android:textSize="25dp"
-        android:textAllCaps="false"
-        android:textStyle="bold"
-        android:fontFamily="sans-serif-light"
-        android:textColor="#000"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="EV and Give v1.0" />
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-light"
+        android:text="RevVolut (v1.0)"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
 
 
 </LinearLayout>
