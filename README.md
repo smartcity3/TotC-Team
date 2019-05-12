@@ -20,7 +20,7 @@ Re-Vol (v1.0)
 - Docker
 - REST API 
 
-Οθόνες εφαρμογής :
+Οθόνες εφαρμογής : https://drive.google.com/open?id=1QE1bxr0km6cRq4UxxboMcqbWnKZlCC5k
 
 Για την δημιουργία του register/login έχει χρησιμοποιηθεί PHP και το API για αυτο βρίσκεται στους άλλους φακέλους τους Project.
 
@@ -85,3 +85,5 @@ To blockchain server του Hyperledger  λειτουργεί με Json Objects 
 
 Hyperledger Composer Rest API 
 ![alt text](https://raw.githubusercontent.com/smartcity3/TotC-Team/c34c2aeffc8a7b63e7f853a5fe2f429945cfe163/REST%20API%20.png)
+
+Όλο το tutorial για την δημιουργία του API/Server Blockchain βρίσκεται στο σύνδεσμο εδώ : https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial
